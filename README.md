@@ -5,4 +5,4 @@ Inspiration : https://staxmanade.com/2016/07/run-multiple-docker-environments--q
 DO Docs: https://docs.docker.com/machine/examples/ocean/#step-2-generate-a-personal-access-token
 
 Shell access to digitalocean instance
-`eval $(docker-machine env docker-multi-environment)`
+`eval $(docker-machine env HOST_NAME)`
